@@ -10,7 +10,6 @@
 
 header {
     background-color: #129799;
-    border: solid yellow;
     /* display: flex;
     flex-wrap: wrap; */
 }
@@ -19,7 +18,6 @@ header {
     display: flex;
     justify-content: space-around;
     width: 30vw;
-    border: solid black;
 }
 
 .menu-top {
@@ -29,7 +27,6 @@ header {
 
 .box-header {
     display: flex;
-    border: solid black;
 }
 
 main {
